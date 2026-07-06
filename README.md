@@ -26,6 +26,11 @@ Its **X** and **Y** outputs are correlated but not identical, giving two complem
 **WAVER** offers a more animated, rippling form of chaos, while **DRIFT** provides slow, evolving motion.
 Unlike random voltage sources, both sections are driven by analog feedback behavior, producing modulation that feels unpredictable yet continuous and naturally connected.
 
+**WAVER** : 1s/div
+![WAVER_Oscilloscope](Images/WAVER_Oscilloscope.png)
+
+**DRIFT** : 1min/dev
+![DRIFT_Oscilloscope](Images/DRIFT_Oscilloscope.png)
 
 
 ## 仕様 / Spec
