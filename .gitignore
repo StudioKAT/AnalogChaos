@@ -8,3 +8,6 @@
 *.bck
 *.tmp
 *.autosave
+
+/v1.0/
+/.agents/
